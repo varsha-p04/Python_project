@@ -23,7 +23,13 @@ order ={
             'size':'medium',
             'quantity':1
 
-        }
+        },
+         {
+            'product':'shoes',
+            'size':'medium',
+            'quantity':1
+
+        },
     ]
 }
 
